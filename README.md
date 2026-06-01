@@ -12,7 +12,7 @@ Bu proje, Nesne Yönelimli Programlama (OOP) prensipleri ve SOLID ilkeleri (öze
 
 ## Kullanılan Teknolojiler ve Prensipler
 
-* Dil: Python 3.x
+* Dil: Python 3.14.3
 * Konseptler: OOP, Soyut Sınıflar (Abstract Classes), Polimorfizm (Polymorphism)
 * Tasarım İlkeleri: SOLID (Open/Closed Principle, Dependency Inversion Principle)
 
